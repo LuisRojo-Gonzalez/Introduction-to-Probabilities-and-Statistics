@@ -1,0 +1,9 @@
+variable,descripcion,tipo
+pedido_id,Identificador del pedido,id
+zona,Zona de despacho (Norte/Centro/Sur),categorica
+ruta,Ruta asignada (Rapida/Normal),categorica
+urgente,1 si el pedido es urgente,binaria
+inspeccionado,1 si el pedido fue inspeccionado,binaria
+defecto,1 si se registro defecto de producto,binaria
+atrasado,1 si la entrega llego atrasada,binaria
+danado,1 si el pedido llego danado,binaria

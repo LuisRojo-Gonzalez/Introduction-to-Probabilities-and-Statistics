@@ -1,0 +1,6 @@
+variable,descripcion,tipo
+muestra_id,Identificador de la muestra,id
+turno,Turno (Dia/Noche),categorica
+n_inspeccion,Tamano de la muestra inspeccionada (20),constante
+defectuosas,Numero de piezas defectuosas en la muestra,conteo
+llamadas_soporte,Llamadas de soporte recibidas en la hora,conteo

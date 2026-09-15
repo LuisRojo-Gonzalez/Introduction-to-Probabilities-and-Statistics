@@ -1,0 +1,5 @@
+variable,descripcion,tipo
+orden_id,Identificador de la orden,id
+proveedor,Proveedor (A/B),categorica
+tiempo_entrega,Tiempo de entrega (dias),continua
+defecto,1 si la orden llego con defecto,binaria

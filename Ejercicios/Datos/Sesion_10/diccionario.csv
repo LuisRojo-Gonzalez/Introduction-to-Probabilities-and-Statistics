@@ -1,0 +1,5 @@
+variable,descripcion,tipo
+lote_id,Identificador del lote (mismo lote antes y despues),id
+tiempo_antes,Tiempo antes de la mejora (min),continua
+tiempo_despues,Tiempo despues de la mejora (min),continua
+d_reduccion,Reduccion = antes - despues (min),continua

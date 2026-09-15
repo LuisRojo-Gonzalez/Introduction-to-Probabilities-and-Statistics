@@ -1,0 +1,4 @@
+variable,descripcion,tipo
+id,Identificador de la observacion,id
+tiempo,"Tiempo de atencion (min), poblacion asimetrica",continua
+atrasado,1 si el tiempo supera 24 min,binaria

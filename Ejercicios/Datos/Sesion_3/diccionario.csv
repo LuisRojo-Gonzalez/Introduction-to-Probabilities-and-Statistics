@@ -1,0 +1,6 @@
+variable,descripcion,tipo
+turno_id,Identificador del turno,id
+linea,Linea de produccion (A/B),categorica
+fallas,Numero de fallas menores en el turno,conteo
+tiempo_ciclo,Tiempo de ciclo promedio del turno (min),continua
+costo,Costo del turno = 500 + 20*fallas (USD),continua

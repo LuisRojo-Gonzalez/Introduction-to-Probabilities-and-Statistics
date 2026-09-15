@@ -1,0 +1,6 @@
+variable,descripcion,tipo
+registro_id,Identificador del registro,id
+turno,Turno (Dia/Noche),categorica
+tipo_defecto,Tipo de defecto (A/B/C),categorica
+proveedor,Proveedor (P1/P2/P3),categorica
+gravedad,Gravedad del defecto (Leve/Grave),categorica

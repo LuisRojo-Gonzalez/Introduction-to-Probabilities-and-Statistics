@@ -1,0 +1,6 @@
+variable,descripcion,tipo
+pieza_id,Identificador de la pieza,id
+diametro,Diametro de la pieza (mm),continua
+tiempo_reparacion,Tiempo hasta reparar un equipo (h),continua
+hora_llegada,Hora de llegada del camion (horas tras las 8:00),continua
+peso,Peso del producto (g),continua

@@ -1,0 +1,7 @@
+variable,descripcion,tipo
+equipo_id,Identificador del equipo,id
+turno,Turno (Dia/Noche),categorica
+falla_real,1 si el equipo esta realmente en falla,binaria
+alarma,1 si el sensor principal activa alarma,binaria
+sensor2,1 si un segundo sensor independiente alerta,binaria
+demanda_repuestos,Repuestos demandados en el dia (conteo 0-5),conteo

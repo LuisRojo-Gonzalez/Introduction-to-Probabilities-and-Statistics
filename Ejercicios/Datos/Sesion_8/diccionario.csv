@@ -1,0 +1,6 @@
+variable,descripcion,tipo
+orden_id,Identificador de la orden,id
+turno,Turno (Dia/Noche),categorica
+tiempo_armado,Tiempo de armado (min),continua
+a_tiempo,1 si la orden se completo a tiempo,binaria
+error_doc,1 si la orden tuvo error de documentacion,binaria

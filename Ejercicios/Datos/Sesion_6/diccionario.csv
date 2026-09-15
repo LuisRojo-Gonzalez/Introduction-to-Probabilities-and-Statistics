@@ -1,0 +1,6 @@
+variable,descripcion,tipo
+cliente_id,Identificador del cliente,id
+sucursal,Sucursal (A/B/C),categorica
+tiempo_atencion,Tiempo de atencion (min),continua
+gasto,Gasto del cliente (CLP),continua
+satisfecho,1 si el cliente quedo satisfecho,binaria
